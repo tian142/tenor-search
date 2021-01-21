@@ -6,7 +6,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
-    "node": "^15.4.0"
+    "node": "^15.4.0",
+    "tenorjs": "^1.0.7"
   },
   "devDependencies": {},
   "scripts": {
